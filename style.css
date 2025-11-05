@@ -16,6 +16,12 @@ h2 {
   color: darkgrey;
 }
 
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 img {
   width: 100%;
   height: auto;
@@ -54,10 +60,10 @@ nav a {
 }
 
 .site-title {
-  text-align: right;
   font-size: 20px;
   color: black;
-  margin-bottom: 0.5rem;
+  margin-bottom: 1rem;
+  padding: 1rem;
 }
 
 /*No touch*/
