@@ -7,11 +7,6 @@
   color: #948b8b;
 }
 
-main {
-  background-color: #262424;
-  padding: 2rem 0;
-}
-
 h1 {
   font-size: 40px;
 }
@@ -57,6 +52,10 @@ nav a {
   margin: 0 1rem;
   font-size: 20px;
   text-decoration: none;
+}
+
+div {
+  text-align: center;
 }
 
 /*No touch*/
