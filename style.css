@@ -5,6 +5,7 @@
   box-sizing: border-box;
   font-family: "Georgia", serif;
   color: ##948b8b;
+  text-align: center;
 }
 
 h1 {
@@ -46,10 +47,6 @@ footer a:hover {
 }
 
 /*Can't touch below, so I put it up here*/
-p {
-  text-align: center;
-}
-
 nav a {
   margin: 0 1rem;
   font-size: 15px;
