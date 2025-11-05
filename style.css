@@ -12,9 +12,8 @@ h1 {
 }
 
 h2 {
-  font-family: cursive;
-  font-style: italic;
-  color: rebeccapurple;
+  font-size:20px;
+  color: darkgrey;
 }
 
 img {
@@ -55,7 +54,10 @@ nav a {
 }
 
 .site-title {
-  text-align: center;
+  text-align: right;
+  font-size: 20px;
+  color: black;
+  margin-bottom: 0.5rem;
 }
 
 /*No touch*/
