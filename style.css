@@ -8,7 +8,8 @@
 }
 
 h1 {
-  font-size: 40px;
+  font-size: 50px;
+  color: dimgrey;
 }
 
 h2 {
@@ -54,14 +55,15 @@ footer a:hover {
 
 /*Can't touch below, so I put it up here*/
 nav a {
-  margin: 0 1rem;
+  margin: 0.5rem;
   font-size: 20px;
   text-decoration: none;
 }
 
 .site-title {
-  font-size: 20px;
-  color: black;
+  font-family: fantasy;
+  font-size: 30px;
+  color: purple;
   margin-bottom: 1rem;
   padding: 1rem;
 }
