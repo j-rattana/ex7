@@ -1,12 +1,49 @@
 /*Add your CSS here*/
+* {
+  margin: 5;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Georgia", serif;
+  color: #e6e3e3;
+}
 
+h1 {
+  font-size: 40px;
+}
 
+h2 {
+  color: midnightblue;
+}
 
+img {
+  width: 100%;
+  height: auto;
+}
 
+.caption {
+  color: darkslategray;
+  font-style: italic;
+}
 
+a:link {
+  color: indigo;
+}
 
+a:visited {
+  color: purple;
+}
 
+a:hover {
+  color: crimson;
+}
 
+a:active {
+  color: firebrick;
+}
+
+footer a:hover {
+  text-decoration: none;
+}
 
 /*No touch*/
 h1, h2, nav, .cap, footer {
