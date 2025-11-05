@@ -15,9 +15,11 @@ main {
 
 h1 {
   font-size: 40px;
+  font-style: italic;
 }
 
 h2 {
+  font-family: cursive;
   color: rebeccapurple;
 }
 
